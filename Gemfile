@@ -12,3 +12,10 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+# Gemfile
+
+# Add these lines to your Gemfile
+gem 'erb', '~> 4.0'
+gem 'logger', '~> 1.5'
+gem 'csv', '~> 3.2'
+gem 'base64', '~> 0.1'
