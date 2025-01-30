@@ -71,7 +71,7 @@ This repository highlights my expertise in:
 Whether you're a data enthusiast, aspiring data scientist, or recruiter, this repository showcases my skills in exploring, analyzing, and visualizing data.  
 
 ## 📩 Connect  
-If you have feedback or want to collaborate, feel free to reach out via [GitHub Issues](https://github.com/AnnNaserNabil/EDA_Projects) or connect with me at [ann.n.inability@gmail.com].  
+If you have feedback or want to collaborate, feel free to reach out via [GitHub Issues](https://github.com/AnnNaserNabil/EDA_Projects) or connect with me at [ann.n.nabil@gmail.com].  
 
 ---  
 
