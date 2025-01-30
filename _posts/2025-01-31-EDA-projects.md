@@ -1,5 +1,11 @@
 
-!(https://github.com/AnnNaserNabil/EDA_Projects)
+<p style="text-align: center; font-size: 24px; color: red;">
+  <a href="https://github.com/AnnNaserNabil/EDA_Projects" style="color: red; text-decoration: none;">
+    <b>EDA Project Repo</b>
+  </a>
+</p>
+
+
 
 
 # Exploratory Data Analysis (EDA) Projects  
