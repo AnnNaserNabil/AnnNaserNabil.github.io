@@ -26,7 +26,7 @@ image:
 
 # Exploratory Data Analysis (EDA) Projects  
 
-Welcome to my **EDA Projects** repository! 🎉  
+Welcome to my ** ![EDA Projects](https://github.com/AnnNaserNabil/EDA_Projects) ** repository! 🎉  
 
 This repository showcases a collection of my exploratory data analysis (EDA) projects, where I analyze diverse datasets, extract meaningful insights, and present visualizations to tell compelling data stories.  
 
