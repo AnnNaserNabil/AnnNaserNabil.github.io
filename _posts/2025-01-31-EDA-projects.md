@@ -2,13 +2,8 @@
 title: EDA Analysis Projects
 date: 2025-01-30 10:12:43 +/-0000
 categories: [Analysis, EDA]
-tags: [eda]     # TAG names should always be lowercase
----
----
+tags: [eda] lowercase
 author: <author_id>  
----
-
----
 description: Eda Project on ten different data set
 ---
 
