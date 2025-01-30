@@ -6,7 +6,7 @@ tags: [eda] lowercase
 author: <author_id>  
 description: Eda Project on ten different data set
 image: 
-  path: /assets/images/eda.jpeg
+  path: /assets/images/assets/images/images - 2025-01-31T031539.475.jpeg
   alt: exploratory data analysis
 ---
 
