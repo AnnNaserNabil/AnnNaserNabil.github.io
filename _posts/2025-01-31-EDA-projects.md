@@ -1,6 +1,6 @@
 ---
 title: EDA Analysis Projects
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2025-01-30 10:12:43 +/-TTTT
 categories: [Analysis, EDA]
 tags: [eda]     # TAG names should always be lowercase
 ---
