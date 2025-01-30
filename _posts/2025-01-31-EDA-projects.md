@@ -1,3 +1,18 @@
+---
+title: EDA Analysis Projects
+date: YYYY-MM-DD HH:MM:SS +/-TTTT
+categories: [Analysis, EDA]
+tags: [eda]     # TAG names should always be lowercase
+---
+---
+description: Eda Project on ten different data set
+---
+
+
+
+
+
+
 
 <p style="text-align: center; font-size: 24px; color: red;">
   <a href="https://github.com/AnnNaserNabil/EDA_Projects" style="color: red; text-decoration: none;">
