@@ -1,18 +1,16 @@
 ---
-title: EDA Analysis Projects
-date: 2025-01-30 10:12:43 +/-0000
+title: "EDA Analysis Projects"
+date: 2025-01-30 10:12:43 +0000
 categories: [Analysis, EDA]
-tags: [eda] lowercase
-author: <author_id>  
-description: Eda Project on ten different data set
+tags: 
+  - eda
+author: "<author_id>"  
+description: "EDA Project on ten different datasets"
 pin: true
 image: 
-  path: /assets/images/assets/images/images - 2025-01-31T031539.475.jpeg
-  alt: exploratory data analysis
+  path: "/assets/images/images - 2025-01-31T031539.475.jpeg"
+  alt: "Exploratory Data Analysis"
 ---
-
-
-
 
 
 
