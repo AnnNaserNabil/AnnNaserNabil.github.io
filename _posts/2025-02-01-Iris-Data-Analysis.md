@@ -4,6 +4,7 @@ date: 2025-01-30 10:12:43 +0000
 categories: [Analysis, EDA]
 tags: 
   - eda
+author: "<nabil>" 
 description: "EDA analysis on IRIS datasets"
 pin: true
 image: 
