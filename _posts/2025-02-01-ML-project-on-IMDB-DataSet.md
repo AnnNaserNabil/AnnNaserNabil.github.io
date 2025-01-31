@@ -22,7 +22,7 @@ image:
    
   <div style="text-align: center;">
         <a href="https://github.com/AnnNaserNabil/imdb___analysis" 
-           style="color: red; font-size: 24px; font-weight: bold;">
+           style="color: red; font-size: 18px; font-weight: bold;">
             Genre Trend Analysis Project's GitHub Repo
         </a>
     </div>
