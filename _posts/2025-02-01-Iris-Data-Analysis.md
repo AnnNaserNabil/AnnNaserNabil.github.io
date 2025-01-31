@@ -1,18 +1,15 @@
 ---
 title: "IRIS DATASET EDA"
-date: 2025-02-01 10:12:43 +0000
+date: 2025-01-30 10:12:43 +0000
 categories: [Analysis, EDA]
 tags: 
   - eda
-author: "<author_id>"  
-description: "Exploratory Data Analysis of IRIS dataset"
+description: "EDA analysis on ten different datasets"
 pin: true
 image: 
   path: "/assets/images/images.jpg"
   alt: "Exploratory Data Analysis of IRIS dataset"
 ---
-
-
 
 
 
