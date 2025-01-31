@@ -1,3 +1,10 @@
+
+
+assets/images/images - 2025-02-01T030007.176.jpeg
+
+
+
+
 # Movie Genre Trend Analysis (2010-2020)
 
 ## Project Overview
