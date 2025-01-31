@@ -1,6 +1,16 @@
+---
+title: "Movie Genre Trend Analysis (2010-2020)"
+date: 2025-01-30 10:12:43 +0000
+categories: [Analysis, EDA, MlOps, DevOps]
+tags: 
+  - MlOps
+description: "End To End Data Enginnering Project on IMDB Dataset"
+pin: true
+image: 
+  path: "/assets/images/images - 2025-02-01T030007.176.jpeg"
+  alt: "Movies"
+---
 
-
-assets/images/images - 2025-02-01T030007.176.jpeg
 
 
 
