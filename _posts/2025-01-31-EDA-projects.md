@@ -4,7 +4,7 @@ date: 2025-01-30 10:12:43 +0000
 categories: [Analysis, EDA]
 tags: 
   - eda
-author: "<author_id>"  
+author: "<nabil>"  
 description: "EDA Project on ten different datasets"
 pin: true
 image: 
