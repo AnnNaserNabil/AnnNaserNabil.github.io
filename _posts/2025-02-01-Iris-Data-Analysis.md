@@ -13,6 +13,13 @@ image:
 
 
 
+<div style="text-align: center;">
+    <a href="https://iriseda.streamlit.app/" style="color: red; font-size: 20px; font-weight: bold;">
+        IRIS dataset EDA on Streamlit
+    </a>
+</div>
+
+
 
 # Iris Dataset Exploratory Data Analysis (EDA) and Outlier Handling
 
