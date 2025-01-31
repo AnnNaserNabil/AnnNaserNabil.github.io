@@ -12,6 +12,10 @@ image:
 ---
 
 
+# Movie Genre Trend Analysis (2010-2020)
+
+
+
    
   <div style="text-align: center;">
         <a href="https://github.com/AnnNaserNabil/imdb___analysis" 
@@ -22,7 +26,6 @@ image:
 
 
 
-# Movie Genre Trend Analysis (2010-2020)
 
 ## Project Overview
 This project aims to analyze the trends in movie genres over the years from 2010 to 2020. By leveraging the IMDb API, we collect movie data, store it in a SQL database, and perform detailed analysis to uncover insights into how movie genres have evolved over the decade. The final output is a web-based dashboard deployed on the Streamlit Cloud platform, providing an interactive and visually appealing overview of the analysis.
