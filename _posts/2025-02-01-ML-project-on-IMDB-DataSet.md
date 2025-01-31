@@ -21,12 +21,6 @@ image:
     </div>
 
 
-This will make the text large, bold, red, and centered in your Streamlit app.
-
-
-
-
-
 
 # Movie Genre Trend Analysis (2010-2020)
 
