@@ -1,3 +1,23 @@
+---
+title: "IRIS DATASET EDA"
+date: 2025-02-01 10:12:43 +0000
+categories: [Analysis, EDA]
+tags: 
+  - eda
+author: "<author_id>"  
+description: "Exploratory Data Analysis of IRIS dataset"
+pin: true
+image: 
+  path: "/assets/images/images.jpg"
+  alt: "Exploratory Data Analysis of IRIS dataset"
+---
+
+
+
+
+
+
+
 # Iris Dataset Exploratory Data Analysis (EDA) and Outlier Handling
 
 This repository contains a Streamlit application for performing exploratory data analysis (EDA) and outlier handling on the famous Iris dataset. The application provides interactive visualizations, statistical summaries, and tools to explore and understand the Iris dataset.
