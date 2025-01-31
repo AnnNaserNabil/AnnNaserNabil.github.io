@@ -1,4 +1,6 @@
 ---
+
+
 title: "IRIS DATASET EDA"
 date: 2025-02-01 10:12:43 +0000
 categories: [Analysis, EDA]
@@ -9,7 +11,8 @@ description: "Exploratory Data Analysis of IRIS dataset"
 pin: true
 image: 
   path: "/assets/images/images.jpg"
-  alt: "Exploratory Data Analysis of IRIS dataset"
+  alt: "Exploratory Data Analysis of IRIS dataset
+
 ---
 
 
