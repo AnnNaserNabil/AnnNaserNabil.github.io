@@ -12,6 +12,19 @@ image:
 ---
 
 
+   
+  <div style="text-align: center;">
+        <a href="https://github.com/AnnNaserNabil/imdb___analysis" 
+           style="color: red; font-size: 24px; font-weight: bold;">
+            Genre Trend Analysis Project's GitHub Repo
+        </a>
+    </div>
+
+
+This will make the text large, bold, red, and centered in your Streamlit app.
+
+
+
 
 
 
