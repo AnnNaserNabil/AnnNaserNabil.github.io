@@ -4,6 +4,7 @@ date: 2025-01-30 10:12:43 +0000
 categories: [Analysis, EDA, MlOps, DevOps]
 tags: 
   - MlOps
+author: "<nabil>" 
 description: "End To End Data Enginnering Project on IMDB Dataset"
 pin: true
 image: 
