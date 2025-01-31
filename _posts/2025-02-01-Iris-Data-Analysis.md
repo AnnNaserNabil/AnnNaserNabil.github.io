@@ -4,16 +4,12 @@ date: 2025-01-30 10:12:43 +0000
 categories: [Analysis, EDA]
 tags: 
   - eda
-description: "EDA analysis on ten different datasets"
+description: "EDA analysis on IRIS datasets"
 pin: true
 image: 
   path: "/assets/images/images.jpg"
   alt: "Exploratory Data Analysis of IRIS dataset"
 ---
-
-
-
-
 
 
 
