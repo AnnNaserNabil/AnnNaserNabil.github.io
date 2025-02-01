@@ -8,8 +8,8 @@ author: "<nabil>"
 description: "Movie recommendations based on users preferences! Watch movies based on the mood ,Genre , or something from a specific era,"
 pin: true
 image: 
-  path: "/assets/images/images - 2025-01-31T031539.475.jpeg"
-  alt: "Exploratory Data Analysis"
+  path: "/assets/images/movie-time-poster-vintage-cinema-film-projector-home-movie-theater-and-retro-camera-illustration-vector.jpg"
+  alt: "Movie Time"
 ---
 
 
