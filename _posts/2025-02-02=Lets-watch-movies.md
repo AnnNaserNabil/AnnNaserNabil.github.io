@@ -13,11 +13,6 @@ image:
 ---
 
 
-
-
-
-
-
 # 🎬 Movie Recommendation System
 Welcome to the Movie Recommendation System, your ultimate guide to discovering personalized movie recommendations based on your preferences! Whether you're in the mood for a comedy, drama, action, or something from a specific era, this app has got you covered. Powered by the TMDB API, it provides a seamless and interactive way to explore movies tailored to your tastes.
 
