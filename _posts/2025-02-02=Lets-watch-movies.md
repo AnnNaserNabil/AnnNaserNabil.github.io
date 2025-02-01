@@ -1,3 +1,18 @@
+---
+title: "Watch movies based on current mood, Genre or Specific era"
+date: 2025-01-30 10:12:43 +0000
+categories: [Data Engineering, Api, Recomendation]
+tags: 
+  -MLOps, DevOps
+author: "<nabil>"  
+description: "Movie recommendations based on users preferences! Watch movies based on the mood ,Genre , or something from a specific era,"
+pin: true
+image: 
+  path: "/assets/images/images - 2025-01-31T031539.475.jpeg"
+  alt: "Exploratory Data Analysis"
+---
+
+
 
 
 
@@ -48,10 +63,6 @@ The movie poster at the top.
 
 Title, release year, overview, rating, top actors, director, and the best review.
 
-## 🎥 Example Output
-Here’s what a movie recommendation looks like:
-
-<div class="movie-card"> <img src="https://image.tmdb.org/t/p/w500/example_poster_path.jpg" width="200" /> <h3>Movie Title (2023)</h3> <p><strong>Overview:</strong> A brief description of the movie's plot.</p> <p><strong>Rating:</strong> ⭐ 8.5</p> <p><strong>Top 5 Actors:</strong> Actor 1, Actor 2, Actor 3, Actor 4, Actor 5</p> <p><strong>Director:</strong> Director Name</p> <p><strong>Best Review:</strong> "This movie is a masterpiece! Highly recommended."</p> </div>
 
 ## 🚀 Technologies Used
 Streamlit: For building the interactive web app.
@@ -69,7 +80,7 @@ Ensure you have Python installed.
 
 Install the required libraries:
 
-    ```bash
+    
     pip install streamlit requests
     Set the TMDB_API_KEY environment variable with your TMDB API key.
 
@@ -78,7 +89,6 @@ Run the App:
 
 Save the script as app.py and run it using Streamlit:
 
-    bash
 
     streamlit run app.py
 
@@ -95,7 +105,8 @@ Easy to Use: A simple and intuitive interface makes it accessible for everyone.
 
 
 🔗 Links
- [GitHub Repository:}(https://github.com/AnnNaserNabil/Watch_Party)
+
+ [GitHub Repository](https://github.com/AnnNaserNabil/Watch_Party)
 
  [Live Demo:](https://letswatch.streamlit.app/)
 
