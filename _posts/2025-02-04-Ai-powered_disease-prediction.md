@@ -22,7 +22,7 @@ The **Disease Prediction System** is an AI-powered web application designed to p
 ## Live Demo
 
   
-👉 [You can access the live application here:](https://know-your-disease.onrender.com)
+👉 [You can access the live application here:](https://ai-powered-disease-prediction.onrender.com)
 
 ---
 
@@ -111,7 +111,7 @@ The application is deployed on **Render**, a cloud platform for hosting web appl
 4. Deploying the application.
 
 The live application can be accessed at:  
-👉 [https://know-your-disease.onrender.com](https://know-your-disease.onrender.com)
+👉 [https://know-your-disease.onrender.com](https://ai-powered-disease-prediction.onrender.com)
 
 ---
 
