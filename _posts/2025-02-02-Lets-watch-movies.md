@@ -3,7 +3,7 @@ title: "Watch movies based on current mood, Genre or Specific era"
 date: 2025-01-30 10:12:43 +0000
 categories: [Data Engineering, Api, Recomendation]
 tags: 
-  -MLOps, DevOps
+  - MLOps, DevOps
 author: "<nabil>"  
 description: "Movie recommendations based on users preferences! Watch movies based on the mood ,Genre , or something from a specific era,"
 pin: true
