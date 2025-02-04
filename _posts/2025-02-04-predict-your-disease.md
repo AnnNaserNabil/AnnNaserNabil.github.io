@@ -1,6 +1,6 @@
 ---
 title: "Ai powered Disease Prediction System"
-date: 2025-01-30 10:12:43 +0000
+date: 2025-02-05 10:12:43 +0000
 categories: [Artificial Intelligence, Web Development, Machine Learning, Health Tech, DevOps]
 tags: 
   - Flask, AI in Healthcare, Disease Prediction, Python Projects, Model Deployment
@@ -8,12 +8,12 @@ author: "<nabil>"
 description: "AI-powered disease prediction model on Render, providing real-time health insights from live input with precision and efficiency."
 pin: true
 image: 
-  path: "/assets/images/images - 2025-02-01T030007.176.jpeg"
-  alt: "Movies"
+  path: "/assets/images/ai-disease.jpeg"
+  alt: "Ai powered Healthcare"
 ---
 
 
-```markdown
+
 # Disease Prediction System
 
 ![Project Banner](https://via.placeholder.com/1200x400.png?text=Disease+Prediction+System) <!-- Add a banner image if available -->
