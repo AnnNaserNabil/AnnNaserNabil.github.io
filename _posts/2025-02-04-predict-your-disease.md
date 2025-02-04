@@ -16,7 +16,6 @@ image:
 
 # Disease Prediction System
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Disease+Prediction+System) <!-- Add a banner image if available -->
 
 The **Disease Prediction System** is an AI-powered web application designed to predict diseases based on user-provided symptoms. Built with Flask, Python, and machine learning, this system provides an intuitive interface for users to select their symptoms and receive a predicted diagnosis. The project is deployed on **Render** and is accessible online.
 
