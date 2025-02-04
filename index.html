@@ -9,3 +9,15 @@ layout: home
       window.history.replaceState({}, document.title, url.pathname);
   }
 </script>
+
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    let count = localStorage.getItem("page_visits") || 0;
+    count++;
+    localStorage.setItem("page_visits", count);
+    document.getElementById("visit-counter").innerText = "Visits: " + count;
+  });
+</script>
+<p id="visit-counter">Visits: Loading...</p>
