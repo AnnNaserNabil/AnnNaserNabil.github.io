@@ -111,7 +111,7 @@ The application is deployed on **Render**, a cloud platform for hosting web appl
 4. Deploying the application.
 
 The live application can be accessed at:  
-👉 [https://know-your-disease.onrender.com](https://ai-powered-disease-prediction.onrender.com)
+👉 [Ai powered Disease Prediction System](https://ai-powered-disease-prediction.onrender.com)
 
 ---
 
