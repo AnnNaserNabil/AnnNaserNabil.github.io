@@ -1,6 +1,6 @@
 ---
 title: "Ai powered Disease Prediction System"
-date: 2025-02-04 10:12:43 +0000
+date: 2025-02-04 00:00:00 +0000
 categories: [Artificial Intelligence, Web Development, Machine Learning, Health Tech, DevOps]
 tags: 
   - Flask, AI in Healthcare, Disease Prediction, Python Projects, Model Deployment
