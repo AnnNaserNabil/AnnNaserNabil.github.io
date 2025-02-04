@@ -135,16 +135,3 @@ Feel free to contribute or provide feedback!
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-### Key Sections:
-1. **Live Demo**: Direct link to the deployed application.
-2. **Features**: Highlights the key functionalities of the system.
-3. **Technologies Used**: Lists the tools and frameworks used in the project.
-4. **How It Works**: Explains the workflow of the application.
-5. **Project Structure**: Provides an overview of the project files.
-6. **Setup and Installation**: Steps to run the project locally.
-7. **Deployment**: Details about deploying the app on Render.
-8. **Future Enhancements**: Ideas for improving the project.
-9. **Credits**: Acknowledges the project creator.
-
-This Markdown file can be used as the `README.md` for your GitHub repository or as documentation for your project.
