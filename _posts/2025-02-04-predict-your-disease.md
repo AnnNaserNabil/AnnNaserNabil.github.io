@@ -1,4 +1,17 @@
-Here’s a detailed project description in Markdown format for your Disease Prediction System. This includes an overview, features, technologies used, deployment details, and a link to the live demo.
+---
+title: "Ai powered Disease Prediction System"
+date: 2025-01-30 10:12:43 +0000
+categories: [Artificial Intelligence, Web Development, Machine Learning, Health Tech, DevOps]
+tags: 
+  - Flask, AI in Healthcare, Disease Prediction, Python Projects, Model Deployment
+author: "<nabil>" 
+description: "AI-powered disease prediction model on Render, providing real-time health insights from live input with precision and efficiency."
+pin: true
+image: 
+  path: "/assets/images/images - 2025-02-01T030007.176.jpeg"
+  alt: "Movies"
+---
+
 
 ```markdown
 # Disease Prediction System
