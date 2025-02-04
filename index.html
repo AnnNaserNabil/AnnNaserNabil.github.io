@@ -11,13 +11,12 @@ layout: home
 </script>
 
 
-
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SC7CWWZ8S4"></script>
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    let count = localStorage.getItem("page_visits") || 0;
-    count++;
-    localStorage.setItem("page_visits", count);
-    document.getElementById("visit-counter").innerText = "Visits: " + count;
-  });
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SC7CWWZ8S4');
 </script>
-<p id="visit-counter">Visits: Loading...</p>
