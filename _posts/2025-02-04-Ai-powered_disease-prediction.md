@@ -14,8 +14,9 @@ image:
 
 
 
-# [AI-powered Disease Prediction and Drug Recommendation System](https://ai-powered-disease-prediction-with-drug.onrender.com/)
+### [AI-powered Disease Prediction and Drug Recommendation System](https://ai-powered-disease-prediction-with-drug.onrender.com/)
 
+---
 
 The **AI-powered Disease Prediction and Drug Recommendation System** is an AI-powered web application designed to predict diseases based on user-provided symptoms. Built with Flask, Python, and machine learning, this system provides an intuitive interface for users to select their symptoms and receive a predicted diagnosis. The project is deployed on **Render** and is accessible online.
 
