@@ -1,11 +1,11 @@
 ---
-title: "Ai powered Disease Prediction System"
+title: "Disease Prediction and Drug Recommendation System"
 date: 2025-02-04 00:00:00 +0000
 categories: [Artificial Intelligence, Web Development, Machine Learning, Health Tech, DevOps]
 tags: 
   - Flask, AI in Healthcare, Disease Prediction, Python Projects, Model Deployment
 author: "<nabil>" 
-description: "AI-powered disease prediction model on Render, providing real-time health insights from live input with precision and efficiency."
+description: "AI-powered Disease Prediction and Drug Recommendation System on Render, providing real-time health insights from live input with precision and efficiency."
 pin: true
 image: 
   path: "/assets/images/ai-disease.jpeg"
@@ -14,115 +14,56 @@ image:
 
 
 
-# Disease Prediction System
+# [AI-powered Disease Prediction and Drug Recommendation System](https://ai-powered-disease-prediction.onrender.com)
 
 
-The **Disease Prediction System** is an AI-powered web application designed to predict diseases based on user-provided symptoms. Built with Flask, Python, and machine learning, this system provides an intuitive interface for users to select their symptoms and receive a predicted diagnosis. The project is deployed on **Render** and is accessible online.
+The **AI-powered Disease Prediction and Drug Recommendation System** is an AI-powered web application designed to predict diseases based on user-provided symptoms. Built with Flask, Python, and machine learning, this system provides an intuitive interface for users to select their symptoms and receive a predicted diagnosis. The project is deployed on **Render** and is accessible online.
 
-## Live Demo
 
-  
-👉 [You can access the live application here:](https://ai-powered-disease-prediction.onrender.com)
+# Project Description: Disease Prediction and Drug Recommendation System
 
----
+## Overview:
+This web-based application is designed to predict potential diseases based on a user's selected symptoms and recommend the appropriate drug for the predicted disease. The system leverages a machine learning model to predict diseases and uses a merged dataset of diseases and drugs to suggest suitable medications. The application combines disease prediction with drug recommendation, providing users with a holistic approach to health diagnostics.
 
-## Features
+## Key Features:
+1. **Symptom-based Disease Prediction**:  
+   The model takes a list of symptoms provided by the user and processes them using a pre-trained machine learning model to predict the most likely disease. The symptoms are mapped to a binary feature vector, with '1' representing the presence of a symptom and '0' for the absence. This vector is then passed through the trained model to make a prediction.
 
-- **Symptom Selection**: Users can select multiple symptoms from a searchable dropdown list.
-- **AI-Powered Prediction**: The system uses a trained machine learning model to predict the most likely disease based on the selected symptoms.
-- **User-Friendly Interface**: A clean and responsive design ensures a seamless user experience.
-- **Real-Time Results**: Predictions are displayed instantly after submitting the form.
-- **Deployed on Render**: The application is hosted on Render for easy access.
+2. **Drug Recommendation**:  
+   Once a disease is predicted, the system fetches information from a merged dataset that associates diseases with corresponding drugs. Using fuzzy matching, the system matches the predicted disease with its entry in the dataset to recommend an appropriate drug. If no drug information is available for the disease, the application provides a message indicating no recommendation.
 
----
+3. **User-Friendly Interface**:  
+   The application features an intuitive interface where users can easily select their symptoms from a list. Upon submission, the system processes the data and displays the predicted disease along with the suggested drug, if available.
 
-## Technologies Used
+4. **Fuzzy Matching for Disease Mapping**:  
+   The system employs fuzzy word matching techniques to handle variations in disease names across different datasets. This ensures that even if there are slight discrepancies in how the disease is listed, the correct disease can still be identified and mapped to the drug recommendation.
 
-- **Frontend**:
-  - HTML, CSS, JavaScript
-  - Bootstrap for responsive design
-  - Select2 for searchable dropdowns
-- **Backend**:
-  - Flask (Python web framework)
-- **Machine Learning**:
-  - Scikit-learn for model training and prediction
-  - Joblib for model serialization
-- **Deployment**:
-  - Render for hosting the Flask application
+## Technologies Used:
+- **Flask**: A lightweight web framework for building the web application.
+- **Joblib**: To load the pre-trained machine learning model used for disease prediction.
+- **Pandas**: For handling and merging the disease-drug dataset and performing data operations.
+- **NumPy**: For manipulating the data into a format compatible with the machine learning model.
+- **HTML/CSS**: For building the front-end interface, allowing users to interact with the system.
+- **Fuzzy Matching Techniques**: To map diseases across different datasets and improve the accuracy of drug recommendations.
 
----
+## Workflow:
+1. **Data Collection**: The dataset contains symptom-disease relationships and a separate dataset linking diseases to recommended drugs. These datasets are merged based on disease names.
+   
+2. **Machine Learning Model**: The pre-trained model takes the selected symptoms as input and predicts the most likely disease using classification techniques. The model was trained on a dataset of diseases and symptoms, learning the relationships between them.
 
-## How It Works
+3. **Drug Mapping**: After predicting the disease, the system checks the merged dataset for any associated drug recommendations. If a drug is available for the predicted disease, it is displayed alongside the prediction.
 
-1. **Symptom Selection**: Users select their symptoms from a dropdown list. The list is searchable, making it easy to find specific symptoms.
-2. **Feature Vector Creation**: The selected symptoms are converted into a binary feature vector, where each symptom is represented as `1` (present) or `0` (absent).
-3. **Model Prediction**: The feature vector is passed to the trained machine learning model, which predicts the most likely disease.
-4. **Result Display**: The predicted disease is displayed to the user in real-time.
+4. **User Interaction**: The user selects symptoms from a predefined list, submits the form, and receives a prediction about the disease and the recommended drug.
 
----
+## Future Enhancements:
+- **Integration with External Medical Databases**: The system can be enhanced by integrating it with external medical databases for more comprehensive disease and drug recommendations.
+- **Improved Fuzzy Matching**: Further improvements to fuzzy matching can make the system even more accurate in handling varying disease names.
+- **User Feedback Loop**: Allow users to provide feedback on predictions and drug suggestions to improve the model's accuracy over time.
+- **More Diseases and Drugs**: Expand the dataset to cover a broader range of diseases and drugs for a more inclusive recommendation system.
 
-## Project Structure
+## Conclusion:
+This disease prediction and drug recommendation system is a useful tool for individuals looking to understand potential diseases based on their symptoms. By combining machine learning predictions with a dynamic drug recommendation engine, the application provides users with valuable insights into their health, making it a valuable resource for preliminary health assessments.
 
-```
-disease-prediction-system/
-├── app.py                  # Flask application and routing
-├── templates/              # HTML templates
-│   └── index.html          # Main page with symptom selection form
-├── static/                 # Static files (CSS, JS, images)
-├── disease_prediction_model.joblib  # Trained machine learning model
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-```
-
----
-
-## Setup and Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/AnnNaserNabil/disease-prediction-system.git
-   cd disease-prediction-system
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Flask Application**:
-   ```bash
-   python app.py
-   ```
-
-4. **Access the Application**:
-   Open your browser and navigate to `http://127.0.0.1:5000`.
-
----
-
-## Deployment
-
-The application is deployed on **Render**, a cloud platform for hosting web applications. The deployment process involves:
-
-1. Pushing the code to a GitHub repository.
-2. Connecting the repository to Render.
-3. Configuring the build and start commands.
-4. Deploying the application.
-
-The live application can be accessed at:  
-👉 [Ai powered Disease Prediction System](https://ai-powered-disease-prediction.onrender.com)
-
----
-
-## Future Enhancements
-
-- **Expand Symptom List**: Add more symptoms to improve prediction accuracy.
-- **Multi-Disease Prediction**: Allow the model to predict multiple possible diseases.
-- **User Accounts**: Enable users to save their symptom history and predictions.
-- **Mobile App**: Develop a mobile version of the application for easier access.
-
----
 
 ## Credits
 
