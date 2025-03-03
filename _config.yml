@@ -19,6 +19,9 @@ timezone:
 
 title: Ann Naser Nabil # the main title
 
+favicon: /assets/images/favicon.ico  # Adjust the path if needed
+
+
 tagline: My personal Website # it will display as the subtitle
 
 description: >- # used by SEO meta and the Atom feed  
