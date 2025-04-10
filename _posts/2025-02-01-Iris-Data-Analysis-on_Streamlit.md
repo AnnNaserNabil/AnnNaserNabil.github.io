@@ -5,11 +5,11 @@ categories: [Analysis, EDA]
 tags: 
   - eda
 author: "<nabil>" 
-description: "EDA analysis on IRIS datasets"
+description: "EDA analysis on IRIS datasets deployed in Streamlit"
 pin: true
 image: 
   path: "/assets/images/images.jpg"
-  alt: "Exploratory Data Analysis of IRIS dataset"
+  alt: "Exploratory Data Analysis of IRIS dataset deployed in Streamlit"
 ---
 
 
