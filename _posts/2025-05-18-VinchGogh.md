@@ -15,7 +15,8 @@ image:
 
 # Introducing Vincha Gogh — The AI-Powered Bengali Sci-Fi & Fantasy Storytelling Web App
 
-Live at [https://vinch-gogh.streamlit.app/]
+
+🔗 **Live Demo:** [dr-broke.streamlit.app](https://vinch-gogh.streamlit.app/)
 
 I’m excited to unveil my latest creation — **ভিঞ্চ গখ (Vincha Gogh)**, an innovative AI-powered web app designed to craft immersive Bengali sci-fi and fantasy stories along with original poems — all tailored for teenage readers who love exploring the realms of imagination beyond time and space.
 
