@@ -8,7 +8,7 @@ author: "<nabil>"
 description: "Introducing Software Architect Agent: Revolutionizing Software Designing with AI Agents."
 pin: true
 image:
-  path: "/assets/images/software.png"
+  path: "/assets/images/software.jpg"
   alt: "Leet Solver"
 ---
 
