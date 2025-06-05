@@ -1,7 +1,7 @@
 ---
 title: " Building the Senior Software Developer AI Assistant: A Multi-Agent Approach to Technical Mentorship"
 date: 2025-05-28 23:59:59 +0000
-categories: [Agent, Artificial Intelligence, Data Science, Machine Learning, Python, Open Source, Leet Code]
+categories: [Agent, Artificial Intelligence, Data Science, Machine Learning, Python, Open Source, Software Development]
 tags:
   - Streamlit, OpenAI API, Langchain, Python, Bengali NLP tools
 author: "<nabil>"
@@ -9,7 +9,7 @@ description: "Introducing Software Architect Agent: Revolutionizing Software Des
 pin: true
 image:
   path: "/assets/images/software.jpg"
-  alt: "Leet Solver"
+  alt: "Software Architect"
 ---
 
 # Building the Senior Software Developer AI Assistant: A Multi-Agent Approach to Technical Mentorship
