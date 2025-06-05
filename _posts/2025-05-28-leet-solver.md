@@ -8,7 +8,7 @@ author: "<nabil>"
 description: "Introducing LeetCode Master: Revolutionizing Competitive Programming with AI Agents."
 pin: true
 image:
-  path: "/assets/images/leet.jpg"
+  path: "/assets/images/leet.png"
   alt: "Leet Solver"
 ---
 
